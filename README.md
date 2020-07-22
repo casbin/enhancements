@@ -5,4 +5,4 @@ The repository includes design proposals that [Casbin](https://github.com/casbin
 
 ## Index of Docs
 
-
+- [Distributed plugin](https://github.com/cabin/enhancements/tree/master/docs/)
